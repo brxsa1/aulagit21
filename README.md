@@ -1,3 +1,3 @@
 # exemplo-git-parte2
 
-Teste de algo
+Texto modificado dentro da branch modificacao
